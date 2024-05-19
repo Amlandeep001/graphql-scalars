@@ -1,9 +1,10 @@
 scalar BigDecimal
 scalar LocalDateTime
+scalar Key
 
 type Product 
 {
-    id: ID!
+    id: Key!
     title: String
     isOnSale: Boolean
     weight: Float
