@@ -10,5 +10,4 @@ class GraphqlScalarsApplicationTests
 	void contextLoads()
 	{
 	}
-
 }
